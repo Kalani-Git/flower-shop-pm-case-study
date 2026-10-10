@@ -3,7 +3,7 @@
 
 **Prepared by:** Kalani Tharanga
 **Date:** 10 October 2026
-**Version:** 1.0 (Draft)
+**Version:** 1.0 
 
 ---
 
@@ -76,53 +76,53 @@ Manual order-taking through calls and messages causes missed orders, order mista
 
 ## 8. User Stories
 
-**US-01 — Browse flowers**
+**US-01 - Browse flowers**
 As a customer, I want to browse flowers with photos and prices so that I can choose the right gift.
 *Acceptance criteria:*
 - Products are grouped by category
 - Each product shows at least one photo, price and availability
 - Out-of-stock items are clearly marked and cannot be added to the cart
 
-**US-02 — Place an order**
+**US-02 - Place an order**
 As a customer, I want to order flowers online at any time so that I don't have to call the shop.
 *Acceptance criteria:*
 - Customer can enter delivery date, time slot, address and phone number
 - The order total, including delivery charge, is shown before payment
 - The order is saved and appears on the staff dashboard immediately
 
-**US-03 — Pay securely**
+**US-03 - Pay securely**
 As a customer, I want to pay safely by card so that I can trust the website with my details.
 *Acceptance criteria:*
 - Payment is processed through a trusted payment provider page
 - The customer sees a clear success or failure message
 - Card details are never stored by the shop
 
-**US-04 — Track delivery**
+**US-04 - Track delivery**
 As a customer, I want to see my order status so that I know when my flowers will arrive.
 *Acceptance criteria:*
 - Status shows: Received, Preparing, Out for delivery, Delivered
 - The customer receives an SMS when the order is out for delivery
 
-**US-05 — Manage orders**
+**US-05 - Manage orders**
 As a sales staff member, I want to see all orders on one dashboard so that no order is missed.
 *Acceptance criteria:*
 - Orders can be filtered by delivery date and status
 - Staff can update the status of each order
 - New orders are highlighted until a staff member opens them
 
-**US-06 — Prepare orders**
+**US-06 - Prepare orders**
 As a florist, I want a clear list of today's orders with details so that I prepare the correct arrangements on time.
 *Acceptance criteria:*
 - List shows product, quantity, message card text and delivery time
 - Orders are sorted by delivery time
 
-**US-07 — Update stock**
+**US-07 - Update stock**
 As a sales staff member, I want to mark flowers as out of stock so that customers cannot order items we don't have.
 *Acceptance criteria:*
 - Staff can change a product to "out of stock" in one click
 - The change shows on the website within 1 minute
 
-**US-08 — Sales report**
+**US-08 - Sales report**
 As the shop owner, I want a monthly sales report so that I can see which products sell best.
 *Acceptance criteria:*
 - Report shows total sales, number of orders and top 10 products
