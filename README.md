@@ -1,8 +1,8 @@
-# Flower Shop Online Ordering System — PM & BA Case Study
+# Flower Shop Online Ordering System - PM & BA Case Study
 
 A project management and business analysis case study for moving a flower shop from manual phone and WhatsApp orders to an online ordering system.
 
-**Author:** Kalani Tharanga — Cybersecurity Undergraduate, Edith Cowan University
+**Author:** Kalani Tharanga - Cybersecurity Undergraduate, Edith Cowan University
 **Focus:** Requirements analysis · Agile project planning · Security-aware design
 
 ---
