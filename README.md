@@ -1,4 +1,4 @@
-# 🌸 Flower Shop Online Ordering System — PM & BA Case Study
+# Flower Shop Online Ordering System — PM & BA Case Study
 
 A project management and business analysis case study for moving a flower shop from manual phone and WhatsApp orders to an online ordering system.
 
